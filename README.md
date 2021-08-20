@@ -1,4 +1,4 @@
-## I'm Jes, a 15 year old developer.
-(I still haven't found enough time to fill this up. Definitely not procrastinating. Fingers crossed I'll do this as soon as my boards are over.)
+## Heyya, I'm Jeswin aka Lona 🦄  
+I'm a sixteen y/o self taught programmer. Although I usually code in Vue2 and Python3, I can pick up most languages fairly easily. I ocasionally dabble my hands in Flutter+Dart, and make crappy 2d sidescrollers with Unity when I'm **that** bored. I identify as a He/Him.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JeswinSUnsi&show_icons=true&theme=tokyonight)
