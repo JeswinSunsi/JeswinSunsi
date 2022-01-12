@@ -21,7 +21,7 @@
 - Also a part of Finance4Future, a student-led NGO aimed at bridging the gap between students of rural India and financial literacy.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JeswinSUnsi&show_icons=true&theme=radical" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jeswinsunsi&repo=pentydesktopassistant" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeswinsunsi&repo=pentydesktopassistant" />
  
 
 
