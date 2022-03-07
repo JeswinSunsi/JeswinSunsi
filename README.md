@@ -14,6 +14,9 @@
 #### MY WORK
 - Designed & developed ShareAura - A book exchange platform for students
 - Created ViralScape - A pandemic themed platformer game made w/ GDevelop
+- Made Penty - A Desktop assistant that showcases PyEel, a library that connect HTML frontend with Python via JavaScript
+- Built Shakespear insults - A browser extension just for fun
+- Learnt VueJS in two days to create XploreOman for OAB Hackathon 2021, Oman's biggest yearly hackathon  
 
 ##### ABOUT
 - I'm currently a twelfth year student under CBSE
