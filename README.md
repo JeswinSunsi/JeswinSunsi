@@ -10,13 +10,14 @@
 ##### RIGHT NOW
 - Building a Browser extension that supercharges your productivity on the web
 - Creating an Ecommerce store from scratch for a local business
+- These repos are private for now. Send me a DM and you can have a peak :)
 
 #### MY WORK
 - Designed & developed ShareAura - A book exchange platform for students
 - Created ViralScape - A pandemic themed platformer game made w/ GDevelop
 - Made Penty - A Desktop assistant that showcases PyEel, a library that connect HTML frontend with Python via JavaScript
 - Built Shakespear insults - A browser extension just for fun
-- Learnt VueJS in two days to create XploreOman for OAB Hackathon 2021, Oman's biggest yearly hackathon  
+- Learnt VueJS in two days to create XploreOman for OAB Hackathon 2021, Oman's biggest yearly hackathon
 
 ##### ABOUT
 - I'm currently a twelfth year student under CBSE
@@ -24,7 +25,7 @@
 - Send me a Hi! [Mail](mailto:jeswinsunsi@gmail.com "Mail me") [Twitter](https://twitter.com/lonadotexe "My Twitter") [Instagram](https://instagram.com/_looonaaaa, "My Instagram")
 - Ask me about **Python, Vue, Frontend, Designing, Content Creation**
 - Hobbies: Programming | Philosopy | Reading | Piano
-- Also Design Head at Finance4Future, a student-led NGO aimed at bridging the gap between students of rural India and financial literacy.
+- Design Head at Finance4Future, a student-led NGO aimed at bridging the gap between students of rural India and financial literacy.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JeswinSUnsi&show_icons=true&theme=radical" /> 
 
