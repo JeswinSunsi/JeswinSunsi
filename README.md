@@ -15,7 +15,7 @@
 #### MY WORK
 - Designed & developed ShareAura - A book exchange platform for students made w/ Ionic Vue
 - Created ViralScape - A pandemic themed platformer game made w/ GDevelop
-- Made Penty - A Desktop assistant that showcases PyEel, a library that connect HTML frontend with Python via JavaScript
+- Made Penty - A Desktop assistant that showcases PyEel, a library that connects HTML frontend with Python via JavaScript
 - Built Shakespear insults - A browser extension that curses in Elizabethan English 
 - Learnt VueJS in two days to create XploreOman for OAB Hackathon 2021, Oman's biggest yearly hackathon
 
