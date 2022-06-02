@@ -28,6 +28,7 @@
 - Design Head at Finance4Future, a student-led NGO aimed at bridging the gap between students of rural India and financial literacy.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JeswinSUnsi&show_icons=true&theme=radical" /> 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dscfen14d7dpd0e38x87ohuk3&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
