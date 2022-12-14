@@ -1,28 +1,33 @@
-<h3 align="center">⚡ Hi there! I'm Jeswin S.</h3>
+<h3 align="center">⚡ Hi there! I'm Jeswyn S.</h3>
 <p align="center">
   <a href="https://instagram.com/_looonaaaa">Instagram</a> • <a href="https://replit.com/@jeswinsunsi">Repl</a> 
 </p>
 
 
 ---
-✨ I'm a sixteen y/o fullstack developer and wannabe entrepreneur ardent on designing the next generation of immersive web experiences.
+✨ I'm a seventeen y/o fullstack developer and wannabe entrepreneur ardent on designing the next generation of immersive web experiences.
 
 ##### RIGHT NOW
+- Working as a part-time software developer at Bluelight Global LLC (Oman) 
 - Building a Browser extension that supercharges your productivity on the web
-- Creating an Ecommerce store from scratch for a local business
+- Creating a fitness trainer that utilizes various ML models to provide personalized assistance like form correction, and routines 
 - These repos are private for now. Send me a DM and you can have a peak :)
 
 #### MY WORK
+- Built Novo- A no-code multiplatform ecommerce app builder (MVP) for Middle East College's 2022 Hackathon - [Won 1st place among 50 teams](https://www.indianschoolseeb.com/meckathon/ "Report issued by School")
+- Made Learnobuddy - A literacy focused curation app aiming to provide accessible education through courses in the public domain
 - Designed & developed ShareAura - A book exchange platform for students made w/ Ionic Vue
 - Created ViralScape - A pandemic themed platformer game made w/ GDevelop
 - Made Penty - A Desktop assistant that showcases PyEel, a library that connects HTML frontend with Python via JavaScript
+- Designed the frontend for SYAC - [r/savedyouaclick](https://reddit.com/r/savedyouaclick)'s mobile app
 - Built Shakespear insults - A browser extension that curses in Elizabethan English 
+- Mentored peers for an inter-school programming competition
 - Learnt VueJS in two days to create XploreOman for OAB Hackathon 2021, Oman's biggest yearly hackathon
 
 ##### ABOUT
 - I'm currently a twelfth year student under CBSE
 - My stack: `.py` `.vue` `Mongo` `.js` `.html` `.css` `.ps` `.sql`
-- Send me a Hi! [Mail](mailto:jeswinsunsi@gmail.com "Mail me") [Twitter](https://twitter.com/lonadotexe "My Twitter") [Instagram](https://instagram.com/lonz.exe, "My Instagram")
+- Send me a Hi! [Mail](mailto:jeswinsunsi@gmail.com "Mail me") [Twitter](https://twitter.com/lonadotexe "My Twitter") [Instagram](https://instagram.com/jeswynsunsi, "My Instagram")
 - Ask me about **Python, Vue, Frontend, Designing, Content Creation**
 - Hobbies: Programming | Philosopy | Reading | Piano
 - Design Head at Finance4Future, a student-led NGO aimed at bridging the gap between students of rural India and financial literacy.
