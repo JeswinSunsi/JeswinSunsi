@@ -1,6 +1,6 @@
 <h3 align="center">⚡ Hi there! I'm Jeswyn S.</h3>
 <p align="center">
-  <a href="https://instagram.com/_looonaaaa">Instagram</a> • <a href="https://replit.com/@jeswinsunsi">Repl</a> 
+  <a href="https://instagram.com/jeswynnnnn">Instagram</a> • <a href="https://replit.com/@jeswinsunsi">Repl</a> 
 </p>
 
 
@@ -27,12 +27,12 @@
 ##### ABOUT
 - I'm currently a twelfth year student under CBSE
 - My stack: `.py` `.vue` `Mongo` `.js` `.html` `.css` `.ps` `.sql`
-- Send me a Hi! [Mail](mailto:jeswinsunsi@gmail.com "Mail me") [Twitter](https://twitter.com/lonadotexe "My Twitter") [Instagram](https://instagram.com/jeswynsunsi, "My Instagram")
+- Send me a Hi! [Mail](mailto:jeswinsunsi@gmail.com "Mail me") [Twitter](https://twitter.com/lonadotexe "My Twitter") [Instagram](https://instagram.com/jeswynnnnnn, "My Instagram")
 - Ask me about **Python, Vue, Frontend, Designing, Content Creation**
 - Hobbies: Programming | Philosopy | Reading | Piano
 - Design Head at Finance4Future, a student-led NGO aimed at bridging the gap between students of rural India and financial literacy.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JeswinSUnsi&show_icons=true&theme=radical" /> 
+<img align="left" src="https://readme-stats.clckblog.space/api?username=JeswinSUnsi&show_icons=true&theme=radical" /> 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dscfen14d7dpd0e38x87ohuk3&cover_image=true&theme=novatorem&bar_color=379bb3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dscfen14d7dpd0e38x87ohuk3&redirect=true)
 
