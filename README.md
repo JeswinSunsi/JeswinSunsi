@@ -25,11 +25,10 @@
 - Mentored peers for an inter-school programming competition
 
 ##### ABOUT
-- I'm currently a twelfth year student under CBSE
+- I'm currently a 1st Year Comp.Sci&Eng student at [SRMIST](https://www.linkedin.com/school/srmist-kattankulathur-chennai-tamil-nadu)
 - My stack: `.py` `.vue` `Mongo` `.js` `.html` `.css` `.ps` `.sql`
 - Send me a Hi! [Mail](mailto:jeswinsunsi@gmail.com "Mail me") [Twitter](https://twitter.com/lonadotexe "My Twitter") [Instagram](https://instagram.com/jeswynnnnnn, "My Instagram")
-- Ask me about **Python, Vue, Frontend, Designing, Content Creation**
-- Hobbies: Programming | Philosopy | Reading | Piano
+- Hobbies: Programming | Philosopy | Literature | Piano
 - Design Head at Finance4Future, a student-led NGO aimed at bridging the gap between students of rural India and financial literacy.
 
 <img align="left" src="https://readme-stats.clckblog.space/api?username=JeswinSUnsi&show_icons=true&theme=radical" /> 
