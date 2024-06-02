@@ -9,7 +9,7 @@
 
 ##### RIGHT NOW
 - Working as a part-time software developer at Bluelight Global LLC (Oman) 
-- Building a Browser extension that supercharges your productivity on the web
+- Building a full fledged coupon generator/authenticator for an e-commerce store
 - Creating a fitness trainer that utilizes various ML models to provide personalized assistance like form correction, and routines 
 - These repos are private for now. Send me a DM and you can have a peak :)
 
@@ -20,9 +20,9 @@
 - Created ViralScape - A pandemic themed platformer game made w/ GDevelop
 - Made Penty - A Desktop assistant that showcases PyEel, a library that connects HTML frontend with Python via JavaScript
 - Designed the frontend for SYAC - [r/savedyouaclick](https://reddit.com/r/savedyouaclick)'s mobile app
-- Built Shakespear insults - A browser extension that curses in Elizabethan English 
+- Built [Qwiksult](https://github.com/JeswinSunsi/Qwiksult#qwiksult---democratizing-healthcare-poc) - A cost efficient healthcare consultation service (WIP)
+- Coded [CoachFit](https://github.com/JeswinSunsi/CoachFit/blob/main/PitchDeck.pptx) - An AI driven personal trainer (POC) 
 - Mentored peers for an inter-school programming competition
-- Learnt VueJS in two days to create XploreOman for OAB Hackathon 2021, Oman's biggest yearly hackathon
 
 ##### ABOUT
 - I'm currently a twelfth year student under CBSE
