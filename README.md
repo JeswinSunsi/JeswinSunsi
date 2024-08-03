@@ -5,7 +5,7 @@
 
 
 ---
-✨ I'm an eighteen y/o fullstack developer and wannabe entrepreneur ardent on designing the next generation of immersive web experiences.
+✨ I'm a nineteen y/o fullstack developer and wannabe entrepreneur ardent on designing the next generation of immersive web experiences.
 
 ##### RIGHT NOW
 - Working as a part-time software developer at Bluelight Global LLC (Oman) 
