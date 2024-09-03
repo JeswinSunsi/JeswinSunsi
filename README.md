@@ -25,7 +25,7 @@
 - Mentored peers for an inter-school programming competition
 
 ##### ABOUT
-- I'm currently a 1st Year Comp.Sci&Eng student at [SRMIST](https://www.linkedin.com/school/srmist-kattankulathur-chennai-tamil-nadu)
+- I'm currently a 2nd Year Comp.Sci&Eng student at [SRMIST](https://www.linkedin.com/school/srmist-kattankulathur-chennai-tamil-nadu)
 - My stack: `.py` `.vue` `Mongo` `.js` `.html` `.css` `.ps` `.sql`
 - Send me a Hi! [Mail](mailto:jeswinsunsi@gmail.com "Mail me") [Twitter](https://twitter.com/lonadotexe "My Twitter") [Instagram](https://instagram.com/jeswynnnnnn, "My Instagram")
 - Hobbies: Programming | Philosopy | Literature | Piano
