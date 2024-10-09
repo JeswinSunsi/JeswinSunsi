@@ -33,7 +33,6 @@
 
 <img align="left" src="https://readme-stats.clckblog.space/api?username=JeswinSUnsi&show_icons=true&theme=radical" /> 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dscfen14d7dpd0e38x87ohuk3&cover_image=true&theme=novatorem&bar_color=379bb3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dscfen14d7dpd0e38x87ohuk3&redirect=true)
 
 
 
