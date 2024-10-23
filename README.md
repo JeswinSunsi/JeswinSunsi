@@ -10,7 +10,7 @@
 ##### RIGHT NOW
 - Freelancing for Bluelight Global LLC (Oman) 
 - Building a full fledged coupon generator/authenticator for an e-commerce store
-- Creating a fitness trainer that utilizes various ML models to provide personalized assistance like form correction, and routines 
+- Creating [PunditAI](https://github.com/jeswinsunsi/punditAI) - A friendly implementation of [Longwriter](https://arxiv.org/abs/2408.07055) 
 - These repos are private for now. Send me a DM and you can have a peak :)
 
 #### MY WORK
