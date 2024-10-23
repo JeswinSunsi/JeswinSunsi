@@ -8,7 +8,7 @@
 ✨ I'm a nineteen y/o fullstack developer and wannabe entrepreneur ardent on designing the next generation of immersive web experiences.
 
 ##### RIGHT NOW
-- Working as a part-time software developer at Bluelight Global LLC (Oman) 
+- Freelancing for Bluelight Global LLC (Oman) 
 - Building a full fledged coupon generator/authenticator for an e-commerce store
 - Creating a fitness trainer that utilizes various ML models to provide personalized assistance like form correction, and routines 
 - These repos are private for now. Send me a DM and you can have a peak :)
