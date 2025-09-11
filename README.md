@@ -13,7 +13,7 @@
 - Creating Pundit - [Patent applied] text generation pipeline for low parameter LLMs (SLMs)
 - These repos are private for now. Send me a DM and you can have a peak :)
 
-#### MY WORK
+##### MY WORK
 - Built Novo- A no-code multiplatform ecommerce app builder (MVP) for Middle East College's Annual Hackathon - [🥇 Won 1st place among 50 teams](https://www.indianschoolseeb.com/meckathon/ "Report issued by School")
 - Developed Neurotone - Early version of Jivalab [🥇 1st in Software at Hacknight '25, VIT Chennai]
 - Coded [CoachFit](https://github.com/JeswinSunsi/CoachFit/blob/main/PitchDeck.pptx) - An POC AI driven personal trainer [🥈 2nd at Appathon '24]
@@ -29,6 +29,7 @@
 - My stack: `.py` `.vue` `mongo` `.js` `.html` `.css` `.ps` `.sql`
 - Send me a Hi! [Mail](mailto:jeswinsunsi@gmail.com "Mail me") [Twitter](https://twitter.com/lonadotexe "My Twitter") [Instagram](https://instagram.com/jezwinnnnn, "My Instagram")
 - Hobbies: Programming | Philosopy | Literature | Piano
-- Design Head at Finance4Future, a Harvard Accredited student-led NGO aimed at bridging the gap between students of rural India and financial literacy.
+- Design Head at Finance4Future, a HarvardX recognized student-led NGO aimed at bridging the gap between students of rural India and financial literacy.
 
+##### STATS
 ![Jeswin's Stats](https://github-readme-stats.vercel.app/api?username=JeswinSunsi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
