@@ -14,12 +14,12 @@
 - These repos are private for now. Send me a DM and you can have a peak :)
 
 #### MY WORK
-- Built Novo- A no-code multiplatform ecommerce app builder (MVP) for Middle East College's 2022 Hackathon - [Won 1st place among 50 teams](https://www.indianschoolseeb.com/meckathon/ "Report issued by School")
-- Developed Neurotone - Early version of Jivalab [1st in Software at Hacknight '25, VIT Chennai]
-- Coded [CoachFit](https://github.com/JeswinSunsi/CoachFit/blob/main/PitchDeck.pptx) - An POC AI driven personal trainer [2nd at Appathon '24]
-- Built [Qwiksult](https://github.com/JeswinSunsi/Qwiksult#qwiksult---democratizing-healthcare-poc) - A WIP cost effective healthcare consultation service [1st at Datakon '23]
-- Made Learnobuddy - A literacy focused curation app aiming to provide accessible education through courses in the public domain [1st in STAI '22]
-- Designed & developed ShareAura - A book exchange platform for students made w/ Ionic Vue [1st in STAI '21]
+- Built Novo- A no-code multiplatform ecommerce app builder (MVP) for Middle East College's Annual Hackathon - [🥇 Won 1st place among 50 teams](https://www.indianschoolseeb.com/meckathon/ "Report issued by School")
+- Developed Neurotone - Early version of Jivalab [🥇 1st in Software at Hacknight '25, VIT Chennai]
+- Coded [CoachFit](https://github.com/JeswinSunsi/CoachFit/blob/main/PitchDeck.pptx) - An POC AI driven personal trainer [🥈 2nd at Appathon '24]
+- Built [Qwiksult](https://github.com/JeswinSunsi/Qwiksult#qwiksult---democratizing-healthcare-poc) - A WIP cost effective healthcare consultation service [🥇 1st at Datakon '23]
+- Made Learnobuddy - A literacy focused curation app aiming to provide accessible education through courses in the public domain [🥇 1st in STAI '22]
+- Designed & developed ShareAura - A book exchange platform for students made w/ Ionic Vue [🥇 1st in STAI '21]
 - Made Penty - A Desktop assistant that showcases PyEel, a library that connects HTML frontend with Python via JavaScript
 - Designed the frontend for SYAC - [r/savedyouaclick](https://reddit.com/r/savedyouaclick)'s mobile app 
 - Mentored peers for an inter-school programming competition
