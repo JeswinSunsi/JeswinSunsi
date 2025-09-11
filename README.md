@@ -9,7 +9,7 @@
 
 ##### RIGHT NOW
 - Working for the State Election Commission, Kerala 
-- Building a from-scratch ecom webapp for an MSME based in Oman
+- Building a from-scratch ecommerce storefront for an MSME based in Oman
 - Creating Pundit - [Patent applied] text generation pipeline for low parameter LLMs (SLMs)
 - These repos are private for now. Send me a DM and you can have a peak :)
 
