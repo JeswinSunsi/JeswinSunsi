@@ -31,9 +31,4 @@
 - Hobbies: Programming | Philosopy | Literature | Piano
 - Design Head at Finance4Future, a student-led NGO aimed at bridging the gap between students of rural India and financial literacy.
 
-<img align="left" src="https://readme-stats.clckblog.space/api?username=JeswinSUnsi&show_icons=true&theme=radical" /> 
-
-
-
-
-
+![Jeswin's Stats](https://github-readme-stats.vercel.app/api?username=JeswinSunsi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
