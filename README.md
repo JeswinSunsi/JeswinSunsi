@@ -1,4 +1,4 @@
-<h3 align="center">⚡ Hi there! I'm Jeswyn S.</h3>
+<h3 align="center">⚡ Hi there! I'm Jezwin S.</h3>
 <p align="center">
   <a href="https://instagram.com/jeswynnnnn">Instagram</a> • <a href="https://replit.com/@jeswinsunsi">Repl</a> 
 </p>
