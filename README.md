@@ -22,7 +22,9 @@ I'm a **Full-Stack Web Developer and Software Engineer** with a focus on buildin
 
 ### 🛠 Selected Projects & Achievements  
 - **Novo** – No-code, multi-platform ecommerce app builder (MVP)  
-  → 🥇 *1st place among 50 teams, MEC Hackathon*  
+  → 🥇 *1st place among 50 teams, MEC Hackathon*
+- **Tamil Nadu FibreNet Hackathon** – SLA based bandwidth verification platform for gov ILL services  
+  → 🥇 *Technical team showed interest, TANFINET*  
 - **Neurotone** – Early-stage product (now evolving into Jivalab)  
   → 🥇 *1st in Software, Hacknight '25 (VIT Chennai)*  
 - **CoachFit** – AI-powered personal trainer (POC)  
