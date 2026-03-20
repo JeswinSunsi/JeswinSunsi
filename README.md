@@ -1,6 +1,6 @@
 <h3 align="center">⚡ Hi there! I'm Jezwin S.</h3>
 <p align="center">
-  <a href="mailto:jeswinsunsi@gmail.com">Mail</a> • <a href="[https://instagram.com/jezwinnnnn](https://github.com/JeswinSunsi/Documents/blob/main/resume/JeswinResume.pdf)">Resume</a> 
+  <a href="mailto:jeswinsunsi@gmail.com">Mail</a> • <a href="https://github.com/JeswinSunsi/Documents/blob/main/resume/JeswinResume.pdf">Resume</a> 
 </p>
 
 
