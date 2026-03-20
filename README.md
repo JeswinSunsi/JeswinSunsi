@@ -1,37 +1,67 @@
-<h3 align="center">⚡ Hi there! I'm Jezwin S.</h3>
+<h3 align="center">⚡ Hi, I'm Jezwin S</h3>
+
 <p align="center">
-  <a href="mailto:jeswinsunsi@gmail.com">Mail</a> • <a href="https://github.com/JeswinSunsi/Documents/blob/main/resume/JeswinResume.pdf">Resume</a> 
+  <a href="mailto:jeswinsunsi@gmail.com">Email</a> • 
+  <a href="https://github.com/JeswinSunsi/Documents/blob/main/resume/JeswinResume.pdf">Resume</a>
 </p>
 
+---
+
+### 💡 About Me  
+I'm a **Full-Stack Web Developer and Software Engineer** with a focus on building scalable, high-impact applications. I enjoy working across the stack—from designing intuitive frontends to developing efficient backend systems—and have a strong interest in AI-driven products and real-world problem solving.
 
 ---
-✨ I'm a fullstack developer designing the next generation of immersive web experiences.
 
-View my <a href="https://github.com/JeswinSunsi/Documents/blob/main/resume/JeswinResume.pdf">Resume here</a> 
+### 🚀 What I'm Working On  
+- Contributing to the **State Election Commission, Kerala**, developing software for election infrastructure ([news report](https://www.thehindu.com/news/national/kerala/kerala-btech-students-develop-evm-track-software-for-state-election-commission/article70295990.ece))  
+- Building a **custom ecommerce platform** from scratch for an MSME in Oman  
+- Developing **PunditAI** – a patent-pending text generation pipeline for small language models (SLMs)  
+- Some projects are private—feel free to reach out if you'd like access  
 
-##### RIGHT NOW
-- Working for the State Election Commission, Kerala - View a <a href="https://www.thehindu.com/news/national/kerala/kerala-btech-students-develop-evm-track-software-for-state-election-commission/article70295990.ece">news report here</a>
-- Building a from-scratch ecommerce storefront for <a href="faiscent.app">an MSME based in Oman</a>
-- Creating <a href="https://pundit-ai.vercel.app/">PunditAI</a> - [Patent applied] text generation pipeline for low parameter LLMs (SLMs)
-- These repos are private for now. Send me a DM and you can have a peak :)
+---
 
-##### MY WORK
-- Built Novo- A no-code multiplatform ecommerce app builder (MVP) for Middle East College's Annual Hackathon - [🥇 Won 1st place among 50 teams](https://www.indianschoolseeb.com/meckathon/ "Report issued by School")
-- Developed Neurotone - Early version of Jivalab [🥇 1st in Software at Hacknight '25, VIT Chennai]
-- Coded [CoachFit](https://github.com/JeswinSunsi/CoachFit/blob/main/PitchDeck.pptx) - An POC AI driven personal trainer [🥈 2nd at Appathon '24]
-- Built [Qwiksult](https://github.com/JeswinSunsi/Qwiksult#qwiksult---democratizing-healthcare-poc) - A WIP cost effective healthcare consultation service [🥇 1st at Datakon '23]
-- Made Learnobuddy - A literacy focused curation app aiming to provide accessible education through courses in the public domain [🥇 1st in STAI '22]
-- Designed & developed ShareAura - A book exchange platform for students made w/ Ionic Vue [🥇 1st in STAI '21]
-- Made Penty - A Desktop assistant that showcases PyEel, a library that connects HTML frontend with Python via JavaScript
-- Designed the frontend for SYAC - [r/savedyouaclick](https://reddit.com/r/savedyouaclick)'s mobile app 
-- Mentored peers for an inter-school programming competition
+### 🛠 Selected Projects & Achievements  
+- **Novo** – No-code, multi-platform ecommerce app builder (MVP)  
+  → 🥇 *1st place among 50 teams, MEC Hackathon*  
+- **Neurotone** – Early-stage product (now evolving into Jivalab)  
+  → 🥇 *1st in Software, Hacknight '25 (VIT Chennai)*  
+- **CoachFit** – AI-powered personal trainer (POC)  
+  → 🥈 *2nd place, Appathon '24*  
+- **Qwiksult** – Affordable healthcare consultation platform (WIP)  
+  → 🥇 *1st place, Datakon '23*  
+- **Learnobuddy** – Literacy-focused course curation platform  
+  → 🥇 *1st place, STAI '22*  
+- **ShareAura** – Book exchange platform for students (Ionic Vue)  
+  → 🥇 *1st place, STAI '21*  
+- Built **Penty**, a Python-based desktop assistant using PyEel  
+- Designed frontend for **SYAC**, the mobile app for r/savedyouaclick  
+- Mentored students in inter-school programming competitions  
 
-##### ABOUT
-- I'm currently a 3rd Year Comp.Sci&Eng student at [SRMIST](https://www.linkedin.com/school/srmist-kattankulathur-chennai-tamil-nadu)
-- My stack: `.py` `.vue` `mongo` `.js` `.html` `.css` `.ps` `.sql`
-- Send me a Hi! [Mail](mailto:jeswinsunsi@gmail.com "Mail me") [Twitter](https://twitter.com/lonadotexe "My Twitter") [Instagram](https://instagram.com/jezwinnnnn, "My Instagram")
-- Hobbies: Programming | Philosopy | Literature | Piano
-- Design Head at Finance4Future, a HarvardX recognized student-led NGO aimed at bridging the gap between students of rural India and financial literacy.
+---
 
-##### STATS
+### 🎓 Education  
+- B.Tech in Computer Science & Engineering  
+- **SRM Institute of Science and Technology (SRMIST)**  
+
+---
+
+### ⚙️ Tech Stack  
+`Python` • `JavaScript` • `Vue.js` • `MongoDB` • `SQL` • `HTML/CSS`
+
+---
+
+### 🌱 Leadership & Interests  
+- Design Head at **Finance4Future** – a HarvardX-recognized NGO focused on financial literacy in rural India  
+- Interests: Programming, Philosophy, Literature, Piano  
+
+---
+
+### 📫 Get in Touch  
+- Email: jeswinsunsi@gmail.com  
+- Twitter: https://twitter.com/lonadotexe  
+- Instagram: https://instagram.com/jezwinnnnn  
+
+---
+
+### 📊 GitHub Stats  
 ![Jeswin's Stats](https://github-readme-stats.vercel.app/api?username=JeswinSunsi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
