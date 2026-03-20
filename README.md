@@ -13,7 +13,7 @@ I'm a **Full-Stack Web Developer and Software Engineer** with a focus on buildin
 ---
 
 ### 🚀 What I'm Working On  
-- Contributing to the **State Election Commission, Kerala**, developing ([ software for election infrastructure](https://www.thehindu.com/news/national/kerala/kerala-btech-students-develop-evm-track-software-for-state-election-commission/article70295990.ece))  
+- Contributing to the **State Election Commission, Kerala**, developing [ software for election infrastructure](https://www.thehindu.com/news/national/kerala/kerala-btech-students-develop-evm-track-software-for-state-election-commission/article70295990.ece)
 - Building a **custom ecommerce platform** from scratch for an MSME in Oman  
 - Developing **PunditAI** – a patent-pending text generation pipeline for small language models (SLMs)  
 - Some projects are private—feel free to reach out if you'd like access  
