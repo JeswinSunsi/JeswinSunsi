@@ -11,8 +11,8 @@ View my <a href="https://github.com/JeswinSunsi/Documents/blob/main/resume/Jeswi
 
 ##### RIGHT NOW
 - Working for the State Election Commission, Kerala - View a <a href="https://www.thehindu.com/news/national/kerala/kerala-btech-students-develop-evm-track-software-for-state-election-commission/article70295990.ece">news report here</a>
-- Building a from-scratch ecommerce storefront for an MSME based in Oman
-- Creating Pundit - [Patent applied] text generation pipeline for low parameter LLMs (SLMs)
+- Building a from-scratch ecommerce storefront for <a href="faiscent.app">an MSME based in Oman</a>
+- Creating <a href="https://pundit-ai.vercel.app/">PunditAI</a> - [Patent applied] text generation pipeline for low parameter LLMs (SLMs)
 - These repos are private for now. Send me a DM and you can have a peak :)
 
 ##### MY WORK
