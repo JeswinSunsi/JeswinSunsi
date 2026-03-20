@@ -5,12 +5,10 @@
   <a href="https://github.com/JeswinSunsi/Documents/blob/main/resume/JeswinResume.pdf">Resume</a>
 </p>
 
----
 
 ### 💡 About Me  
 I'm a **Full-Stack Web Developer and Software Engineer** with a focus on building scalable, high-impact applications. I enjoy working across the stack - from designing intuitive frontends to developing efficient backend systems. I have a strong interest in AI-driven products and real-world problem solving.
 
----
 
 ### 🚀 What I'm Working On  
 - Contributing to the **State Election Commission, Kerala**, developing [ software for election infrastructure](https://www.thehindu.com/news/national/kerala/kerala-btech-students-develop-evm-track-software-for-state-election-commission/article70295990.ece)
@@ -18,7 +16,6 @@ I'm a **Full-Stack Web Developer and Software Engineer** with a focus on buildin
 - Developing **PunditAI** – a patent-pending text generation pipeline for small language models (SLMs)  
 - Some projects are private—feel free to reach out if you'd like access  
 
----
 
 ### 🛠 Selected Projects & Achievements  
 - **Novo** – No-code, multi-platform ecommerce app builder (MVP)  
@@ -39,31 +36,28 @@ I'm a **Full-Stack Web Developer and Software Engineer** with a focus on buildin
 - Designed frontend for **SYAC**, the mobile app for r/savedyouaclick  
 - Mentored students in inter-school programming competitions  
 
----
 
 ### 🎓 Education  
 - B.Tech in Computer Science & Engineering  
 - **SRM Institute of Science and Technology (SRMIST)**  
 
----
 
 ### ⚙️ Tech Stack  
-`Python` • `JavaScript` • `Vue.js` • `MongoDB` • `SQL` • `HTML/CSS`
+`Python` • `JavaScript` • `Vue.js` • `MongoDB` • `SQL` • `HTML/CSS` `Node.js` • `Vue 3` • `Django` • `FastAPI` • `TensorFlow` • `PyTorch` • `Docker` • `PostgreSQL` • `AWS`
 
----
 
 ### 🌱 Leadership & Interests  
-- Design Head at **Finance4Future** – a HarvardX-recognized NGO focused on financial literacy in rural India  
+- Ex-Design Head at **Finance4Future** – a HarvardX-recognized NGO focused on financial literacy in rural India
+- Volunteered at the Founder’s Club SRM to build the frontend for a custom mail client that the team uses
+- Volunteered to build the frontend for R/SYAC’s [subreddit] website
 - Interests: Programming, Philosophy, Literature, Piano  
 
----
 
 ### 📫 Get in Touch  
 - Email: jeswinsunsi@gmail.com  
 - Twitter: https://twitter.com/lonadotexe  
 - Instagram: https://instagram.com/jezwinnnnn  
 
----
 
 ### 📊 GitHub Stats  
 ![Jeswin's Stats](https://github-readme-stats.vercel.app/api?username=JeswinSunsi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
