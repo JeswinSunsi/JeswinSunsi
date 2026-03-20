@@ -8,7 +8,7 @@
 ---
 
 ### 💡 About Me  
-I'm a **Full-Stack Web Developer and Software Engineer** with a focus on building scalable, high-impact applications. I enjoy working across the stack—from designing intuitive frontends to developing efficient backend systems—and have a strong interest in AI-driven products and real-world problem solving.
+I'm a **Full-Stack Web Developer and Software Engineer** with a focus on building scalable, high-impact applications. I enjoy working across the stack - from designing intuitive frontends to developing efficient backend systems. I have a strong interest in AI-driven products and real-world problem solving.
 
 ---
 
