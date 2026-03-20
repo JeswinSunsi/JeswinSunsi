@@ -34,11 +34,10 @@ I'm a **Full-Stack Web Developer and Software Engineer** with a focus on buildin
   → 🥇 *1st place, STAI '21*  
 - Built **Penty**, a Python-based desktop assistant using PyEel  
 - Designed frontend for **SYAC**, the mobile app for r/savedyouaclick  
-- Mentored students in inter-school programming competitions  
 
 
 ### 🎓 Education  
-- B.Tech in Computer Science & Engineering  
+- B.Tech in Computer Science & Engineering, Pre-Final
 - **SRM Institute of Science and Technology (SRMIST)**  
 
 
@@ -56,7 +55,6 @@ I'm a **Full-Stack Web Developer and Software Engineer** with a focus on buildin
 ### 📫 Get in Touch  
 - Email: jeswinsunsi@gmail.com  
 - Twitter: https://twitter.com/lonadotexe  
-- Instagram: https://instagram.com/jezwinnnnn  
 
 
 ### 📊 GitHub Stats  
