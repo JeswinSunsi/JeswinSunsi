@@ -11,8 +11,8 @@ I'm a **Full-Stack Web Developer and Software Engineer** with a focus on buildin
 
 
 ### 🚀 What I'm Working On  
-- Working on fullstack and AI at Bajaj Finserv Health Limited.
-- Contributing to the **State Election Commission, Kerala**, developing [ software for election infrastructure](https://www.thehindu.com/news/national/kerala/kerala-btech-students-develop-evm-track-software-for-state-election-commission/article70295990.ece)
+- Working on fullstack and AI at [Bajaj Finserv Health Limited.](https://www.linkedin.com/posts/jeswin-sunsi_bajajfinserv-campusplacement-internshipoffer-activity-7457783887461765120-zHTe)
+- Contributing to the **State Election Commission, Kerala**, developing [software for election infrastructure](https://www.thehindu.com/news/national/kerala/kerala-btech-students-develop-evm-track-software-for-state-election-commission/article70295990.ece)
 - Building a **custom ecommerce platform** from scratch for an MSME in Oman  
 - Developing **PunditAI** – a patent-pending text generation pipeline for small language models (SLMs)  
 - Some projects are private—feel free to reach out if you'd like access  
